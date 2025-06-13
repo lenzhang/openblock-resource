@@ -20,3 +20,7 @@ Provide a local resource server for openblock.
     ```bash
     npm test
     ```
+
+## 致谢
+
+本项目基于 [openblockcc/openblock-resource](https://github.com/openblockcc/openblock-resource) 开发，感谢原作者及社区的贡献！
